@@ -1,5 +1,7 @@
 # Practica-MPI
 
+En este repo se encuentra la primera práctica de Arquitectura de Computadores, la parte de MPI 
+
 # Realizado por:
 <table>
   <td align="center"><a href="https://github.com/JuanjoLopez19"><img src="https://avatars.githubusercontent.com/u/92031193?v=4" width="100px;" alt=""/><br /><sub><b>Juanjo López</b></sub></a><br /> 
